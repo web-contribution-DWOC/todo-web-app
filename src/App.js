@@ -92,7 +92,7 @@ addItem() {
 deleteItem(id){
   const list = [...this.state.list];
 
-  const updatedList = list.filter(item => item.id != id);
+  const updatedList = list.filter(item => item.id !== id);
 
   this.setState({list: updatedList});
 }
