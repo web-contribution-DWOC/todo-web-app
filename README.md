@@ -4,7 +4,7 @@ This is an ToDo Web App built with ReactJS.
 You can add and delete your tasks in the app. <br>
 This app also uses local Storage to store the tasks hence tasks are still visible even after refereshing the page.
 
-## Steps to Run Locally
+## Setting up Locally
 
 In the project directory, you can run:
 
